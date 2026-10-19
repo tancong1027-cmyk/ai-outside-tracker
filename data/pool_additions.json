@@ -1,0 +1,92 @@
+[
+ {
+  "code": "601088.SH",
+  "name": "中国神华",
+  "market": "A股",
+  "category": 3,
+  "moat": "资源垄断（煤电路港航一体化）+ 长协定价",
+  "baseline": [],
+  "triggerText": "股息率 ≥ 5.5% 或 PE ≤ 12x（煤价周期高位，股息口径优先）",
+  "falsify": "碳中和政策加速 / 煤价中枢大幅下移 / 分红承诺下调",
+  "addedFrom": "seed-1",
+  "triggerPe": 12.0,
+  "triggerDiv": 5.5
+ },
+ {
+  "code": "600025.SH",
+  "name": "华能水电",
+  "market": "A股",
+  "category": 3,
+  "moat": "资源垄断（澜沧江流域开发权）",
+  "baseline": [],
+  "triggerText": "股息率 ≥ 3.5% 或 PE ≤ 17x（对标核电门槛；当前估值偏贵，等击球点）",
+  "falsify": "来水偏枯 / 电价市场化让利超预期",
+  "addedFrom": "seed-2",
+  "triggerPe": 17.0,
+  "triggerDiv": 3.5
+ },
+ {
+  "code": "600426.SH",
+  "name": "宇通客车",
+  "market": "A股",
+  "category": 2,
+  "moat": "品牌 + 渠道 + 海外服务网络",
+  "baseline": [],
+  "triggerText": "PE ≤ 10x 或股息率 ≥ 4%（出口周期回撤 -43%，周期股 PE 口径）",
+  "falsify": "海外订单回落 / 国内公交需求低迷 / 周期见顶利润回吐",
+  "addedFrom": "seed-3",
+  "triggerPe": 10.0,
+  "triggerDiv": 4.0
+ },
+ {
+  "code": "601899.SH",
+  "name": "紫金矿业",
+  "market": "A股",
+  "category": 1,
+  "moat": "资源垄断（铜金锂资源储备 + 全球低成本分位）",
+  "baseline": [],
+  "triggerText": "PE ≤ 12x 或股息率 ≥ 3%（近 5 年低分位约 12x，铜金产量增长给容忍度）",
+  "falsify": "卡莫阿产量持续下修 / 金铜价格中枢大幅回落 / 有息负债重新扩张（当前有息资产负债率约 31%）",
+  "addedFrom": "scout-202610-1",
+  "triggerPe": 12.0,
+  "triggerDiv": 3.0
+ },
+ {
+  "code": "601006.SH",
+  "name": "大秦铁路",
+  "market": "A股",
+  "category": 3,
+  "moat": "物理垄断（西煤东运核心通道，铁路格局固定难分流）",
+  "baseline": [],
+  "triggerText": "股息率 ≥ 5.5% 或 PB ≤ 0.5x（运煤量长期下滑风险，要求高于京沪高铁）",
+  "falsify": "煤炭需求趋势性萎缩 / 运价市场化让利 / 分红率大幅下调",
+  "addedFrom": "scout-202610-2",
+  "triggerPb": 0.5,
+  "triggerDiv": 5.5
+ },
+ {
+  "code": "600377.SH",
+  "name": "宁沪高速",
+  "market": "A股",
+  "category": 3,
+  "moat": "物理垄断（长三角核心路产收费权）+ 路网协同",
+  "baseline": [],
+  "triggerText": "股息率 ≥ 4.5%（历史中枢 4–5%，高于即具吸引力）",
+  "falsify": "收费公路政策调整（降费/延长免费）/ 收购路产回报不及预期 / 车流量下滑",
+  "addedFrom": "scout-202610-3",
+  "triggerDiv": 4.5
+ },
+ {
+  "code": "000999.SZ",
+  "name": "华润三九",
+  "market": "A股",
+  "category": 3,
+  "moat": "品牌心智（999 感冒灵/胃泰）+ OTC 渠道 + 中药经典名方储备",
+  "baseline": [],
+  "triggerText": "PE ≤ 12x 或股息率 ≥ 4.5%（中药消费，当前 PE 12.3 已接近击球区）",
+  "falsify": "昆药整合持续拖累 / CHC 需求走弱 / 集采向 OTC 蔓延",
+  "addedFrom": "scout-202610-4",
+  "triggerPe": 12.0,
+  "triggerDiv": 4.5
+ }
+]

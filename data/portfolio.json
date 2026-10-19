@@ -1,0 +1,1251 @@
+{
+ "createdAt": "2026-10-07T03:42:48+08:00",
+ "capital": 100000.0,
+ "cash": 4132.03627762643,
+ "positions": [
+  {
+   "code": "002352.SZ",
+   "name": "顺丰控股",
+   "market": "A股",
+   "category": 2,
+   "shares": 260.8412,
+   "costPrice": 30.67,
+   "costDate": "2026-10-07",
+   "costCny": 8008.0,
+   "signalsAtBuy": [
+    "T1",
+    "T2",
+    "T3"
+   ]
+  },
+  {
+   "code": "600519.SH",
+   "name": "贵州茅台",
+   "market": "A股",
+   "category": 3,
+   "shares": 6.3562,
+   "costPrice": 1258.62,
+   "costDate": "2026-10-07",
+   "costCny": 8008.0,
+   "signalsAtBuy": [
+    "T1",
+    "T2"
+   ]
+  },
+  {
+   "code": "600085.SH",
+   "name": "同仁堂",
+   "market": "A股",
+   "category": 3,
+   "shares": 336.984,
+   "costPrice": 23.74,
+   "costDate": "2026-10-07",
+   "costCny": 8008.0,
+   "signalsAtBuy": [
+    "T1",
+    "T3"
+   ]
+  },
+  {
+   "code": "600436.SH",
+   "name": "片仔癀",
+   "market": "A股",
+   "category": 3,
+   "shares": 67.7966,
+   "costPrice": 118.0,
+   "costDate": "2026-10-07",
+   "costCny": 8008.0,
+   "signalsAtBuy": [
+    "T1",
+    "T3"
+   ]
+  },
+  {
+   "code": "300760.SZ",
+   "name": "迈瑞医疗",
+   "market": "A股",
+   "category": 2,
+   "shares": 49.5909,
+   "costPrice": 161.32,
+   "costDate": "2026-10-07",
+   "costCny": 8008.0,
+   "signalsAtBuy": [
+    "T1",
+    "T3"
+   ]
+  },
+  {
+   "code": "01378.HK",
+   "name": "中国宏桥",
+   "market": "港股",
+   "category": 1,
+   "shares": 378.0718,
+   "costPrice": 21.16,
+   "costDate": "2026-10-07",
+   "costCny": 8008.0,
+   "signalsAtBuy": [
+    "T2",
+    "T3"
+   ]
+  },
+  {
+   "code": "601600.SH",
+   "name": "中国铝业",
+   "market": "A股",
+   "category": 1,
+   "shares": 895.8567,
+   "costPrice": 8.93,
+   "costDate": "2026-10-07",
+   "costCny": 8008.0,
+   "signalsAtBuy": [
+    "T1",
+    "T3"
+   ]
+  },
+  {
+   "code": "002236.SZ",
+   "name": "大华股份",
+   "market": "A股",
+   "category": 2,
+   "shares": 522.1932,
+   "costPrice": 15.32,
+   "costDate": "2026-10-07",
+   "costCny": 8008.0,
+   "signalsAtBuy": [
+    "T1",
+    "T3"
+   ]
+  },
+  {
+   "code": "600161.SH",
+   "name": "天坛生物",
+   "market": "A股",
+   "category": 3,
+   "shares": 630.9518,
+   "costPrice": 12.59,
+   "costDate": "2026-10-07",
+   "costCny": 7951.627083076476,
+   "signalsAtBuy": [
+    "T1",
+    "T3"
+   ]
+  },
+  {
+   "code": "600570.SH",
+   "name": "恒生电子",
+   "market": "A股",
+   "category": 2,
+   "shares": 409.4682,
+   "costPrice": 19.4,
+   "costDate": "2026-10-07",
+   "costCny": 7951.627083076476,
+   "signalsAtBuy": [
+    "T1",
+    "T3"
+   ]
+  },
+  {
+   "code": "SPGI",
+   "name": "标普全球",
+   "market": "美股",
+   "category": 3,
+   "shares": 20.3172,
+   "costPrice": 390.92,
+   "costDate": "2026-10-09",
+   "costCny": 7950.354778110308,
+   "signalsAtBuy": [
+    "T1",
+    "T3"
+   ]
+  },
+  {
+   "code": "300124.SZ",
+   "name": "汇川技术",
+   "market": "A股",
+   "category": 2,
+   "shares": 153.033,
+   "costPrice": 51.9,
+   "costDate": "2026-10-09",
+   "costCny": 7950.354778110308,
+   "signalsAtBuy": [
+    "T1",
+    "T3"
+   ]
+  }
+ ],
+ "navHistory": [
+  {
+   "date": "2026-10-07",
+   "nav": 99296.04,
+   "invested": 63360.04,
+   "cash": 35936.0,
+   "benchmark": 100.0
+  },
+  {
+   "date": "2026-10-07",
+   "nav": 99280.15,
+   "invested": 79247.41,
+   "cash": 20032.75,
+   "benchmark": 100.0
+  },
+  {
+   "date": "2026-10-09",
+   "nav": 147712.9,
+   "invested": 143580.86,
+   "cash": 4132.04,
+   "benchmark": 100.0
+  }
+ ],
+ "adviceLog": [
+  {
+   "date": "2026-10-07",
+   "week": 0,
+   "type": "init",
+   "summary": "初始建仓 8 只，投入 64000.0 元，现金 35936.0 元",
+   "actions": [
+    {
+     "action": "buy",
+     "code": "002352.SZ",
+     "name": "顺丰控股",
+     "amount": 8000.0,
+     "reason": "T1、T2、T3｜PE 14.2 ≤ 18.0x；PE 近5年分位 0.0% < 20%"
+    },
+    {
+     "action": "buy",
+     "code": "600519.SH",
+     "name": "贵州茅台",
+     "amount": 8000.0,
+     "reason": "T1、T2｜PE 19.3 ≤ 22.0x；PE 近5年分位 1.8% < 20%"
+    },
+    {
+     "action": "buy",
+     "code": "600085.SH",
+     "name": "同仁堂",
+     "amount": 8000.0,
+     "reason": "T1、T3｜PE 近5年分位 3.5% < 20%"
+    },
+    {
+     "action": "buy",
+     "code": "600436.SH",
+     "name": "片仔癀",
+     "amount": 8000.0,
+     "reason": "T1、T3｜PE 近5年分位 3.5% < 20%"
+    },
+    {
+     "action": "buy",
+     "code": "300760.SZ",
+     "name": "迈瑞医疗",
+     "amount": 8000.0,
+     "reason": "T1、T3｜PE 近5年分位 5.3% < 20%"
+    },
+    {
+     "action": "buy",
+     "code": "01378.HK",
+     "name": "中国宏桥",
+     "amount": 8000.0,
+     "reason": "T2、T3｜股息率 7.01% ≥ 6.0%"
+    },
+    {
+     "action": "buy",
+     "code": "601600.SH",
+     "name": "中国铝业",
+     "amount": 8000.0,
+     "reason": "T1、T3｜PE 8.8 ≤ 12.0x"
+    },
+    {
+     "action": "buy",
+     "code": "002236.SZ",
+     "name": "大华股份",
+     "amount": 8000.0,
+     "reason": "T1、T3｜PE 13.3 ≤ 20.0x"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "week": 1,
+   "type": "weekly",
+   "summary": "第 1 周：2 买 / 0 卖 / 0 调，NAV 99280.15（基准 100.0）",
+   "actions": [
+    {
+     "action": "buy",
+     "code": "600161.SH",
+     "name": "天坛生物",
+     "amount": 7943.68,
+     "reason": "T1、T3｜PE 33.1 ≤ 35.0x；PE 近5年分位 7.0% < 20%"
+    },
+    {
+     "action": "buy",
+     "code": "600570.SH",
+     "name": "恒生电子",
+     "amount": 7943.68,
+     "reason": "T1、T3｜PE 29.8 ≤ 40.0x；PE 近5年分位 5.3% < 20%"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "week": 2,
+   "type": "weekly",
+   "summary": "第 2 周：2 买 / 0 卖 / 0 调，NAV 147712.9（基准 100.0）",
+   "actions": [
+    {
+     "action": "buy",
+     "code": "SPGI",
+     "name": "标普全球",
+     "amount": 7942.41,
+     "reason": "T1、T3｜PE 23.8 ≤ 28.0x；PE 近5年分位 5.2% < 20%"
+    },
+    {
+     "action": "buy",
+     "code": "300124.SZ",
+     "name": "汇川技术",
+     "amount": 7942.41,
+     "reason": "T1、T3｜PE 29.2 ≤ 32.0x；PE 近5年分位 5.3% < 20%"
+    }
+   ]
+  }
+ ],
+ "signalLog": [
+  {
+   "date": "2026-10-07",
+   "code": "002270.SZ",
+   "name": "华明装备",
+   "hit": [
+    "T2",
+    "T3"
+   ],
+   "price": 17.04,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "688548.SH",
+   "name": "广钢气体",
+   "hit": [
+    "T3"
+   ],
+   "price": 30.72,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "688146.SH",
+   "name": "中船特气",
+   "hit": [
+    "T3"
+   ],
+   "price": 190.66,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "000807.SZ",
+   "name": "云铝股份",
+   "hit": [
+    "T2",
+    "T3"
+   ],
+   "price": 26.2,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "01378.HK",
+   "name": "中国宏桥",
+   "hit": [
+    "T2",
+    "T3"
+   ],
+   "price": 21.16,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-07",
+   "code": "601600.SH",
+   "name": "中国铝业",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 8.93,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-07",
+   "code": "01164.HK",
+   "name": "中广核矿业",
+   "hit": [
+    "T3"
+   ],
+   "price": 2.09,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "001280.SZ",
+   "name": "中国铀业",
+   "hit": [
+    "T3"
+   ],
+   "price": 60.22,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "CCJ",
+   "name": "Cameco",
+   "hit": [
+    "T3"
+   ],
+   "price": 87.47,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "600406.SH",
+   "name": "国电南瑞",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 22.52,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "002415.SZ",
+   "name": "海康威视",
+   "hit": [
+    "T1"
+   ],
+   "price": 32.46,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "002236.SZ",
+   "name": "大华股份",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 15.32,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-07",
+   "code": "300124.SZ",
+   "name": "汇川技术",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 51.9,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "002747.SZ",
+   "name": "埃斯顿",
+   "hit": [
+    "T3"
+   ],
+   "price": 28.22,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "300012.SZ",
+   "name": "华测检测",
+   "hit": [
+    "T1"
+   ],
+   "price": 13.76,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "002967.SZ",
+   "name": "广电计量",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 17.56,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "300760.SZ",
+   "name": "迈瑞医疗",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 161.32,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-07",
+   "code": "688271.SH",
+   "name": "联影医疗",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 107.37,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "GEHC",
+   "name": "GE HealthCare",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 65.74,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "6060.HK",
+   "name": "众安在线",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 9.475,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "600570.SH",
+   "name": "恒生电子",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 19.4,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-07",
+   "code": "002352.SZ",
+   "name": "顺丰控股",
+   "hit": [
+    "T1",
+    "T2",
+    "T3"
+   ],
+   "price": 30.67,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-07",
+   "code": "ADP",
+   "name": "ADP",
+   "hit": [
+    "T1"
+   ],
+   "price": 260.26,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "601816.SH",
+   "name": "京沪高铁",
+   "hit": [
+    "T1"
+   ],
+   "price": 4.76,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "600519.SH",
+   "name": "贵州茅台",
+   "hit": [
+    "T1",
+    "T2"
+   ],
+   "price": 1258.62,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-07",
+   "code": "600887.SH",
+   "name": "伊利股份",
+   "hit": [
+    "T2"
+   ],
+   "price": 27.3,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "603288.SH",
+   "name": "海天味业",
+   "hit": [
+    "T1"
+   ],
+   "price": 33.17,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "9633.HK",
+   "name": "农夫山泉",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 39.98,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "600436.SH",
+   "name": "片仔癀",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 118.0,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-07",
+   "code": "600085.SH",
+   "name": "同仁堂",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 23.74,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-07",
+   "code": "600161.SH",
+   "name": "天坛生物",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 12.59,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-07",
+   "code": "1299.HK",
+   "name": "友邦保险",
+   "hit": [
+    "T3"
+   ],
+   "price": 68.95,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "601318.SH",
+   "name": "中国平安",
+   "hit": [
+    "T2",
+    "T3"
+   ],
+   "price": 53.29,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "0388.HK",
+   "name": "香港交易所",
+   "hit": [
+    "T1"
+   ],
+   "price": 378.0,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "SPGI",
+   "name": "标普全球",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 390.92,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "MCO",
+   "name": "穆迪",
+   "hit": [
+    "T1"
+   ],
+   "price": 448.15,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "6055.HK",
+   "name": "中烟香港",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 22.92,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "600426.SH",
+   "name": "宇通客车",
+   "hit": [
+    "T3"
+   ],
+   "price": 19.43,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "601899.SH",
+   "name": "紫金矿业",
+   "hit": [
+    "T3"
+   ],
+   "price": 29.79,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-07",
+   "code": "000999.SZ",
+   "name": "华润三九",
+   "hit": [
+    "T1"
+   ],
+   "price": 24.19,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "002270.SZ",
+   "name": "华明装备",
+   "hit": [
+    "T2",
+    "T3"
+   ],
+   "price": 17.04,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "688548.SH",
+   "name": "广钢气体",
+   "hit": [
+    "T3"
+   ],
+   "price": 30.72,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "688146.SH",
+   "name": "中船特气",
+   "hit": [
+    "T3"
+   ],
+   "price": 190.66,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "000807.SZ",
+   "name": "云铝股份",
+   "hit": [
+    "T2",
+    "T3"
+   ],
+   "price": 26.2,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "01378.HK",
+   "name": "中国宏桥",
+   "hit": [
+    "T2",
+    "T3"
+   ],
+   "price": 21.16,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-09",
+   "code": "601600.SH",
+   "name": "中国铝业",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 8.93,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-09",
+   "code": "01164.HK",
+   "name": "中广核矿业",
+   "hit": [
+    "T3"
+   ],
+   "price": 2.09,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "001280.SZ",
+   "name": "中国铀业",
+   "hit": [
+    "T3"
+   ],
+   "price": 60.22,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "CCJ",
+   "name": "Cameco",
+   "hit": [
+    "T3"
+   ],
+   "price": 87.47,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "600406.SH",
+   "name": "国电南瑞",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 22.52,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "002415.SZ",
+   "name": "海康威视",
+   "hit": [
+    "T1"
+   ],
+   "price": 32.46,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "002236.SZ",
+   "name": "大华股份",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 15.32,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-09",
+   "code": "300124.SZ",
+   "name": "汇川技术",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 51.9,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-09",
+   "code": "002747.SZ",
+   "name": "埃斯顿",
+   "hit": [
+    "T3"
+   ],
+   "price": 28.22,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "300012.SZ",
+   "name": "华测检测",
+   "hit": [
+    "T1"
+   ],
+   "price": 13.76,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "002967.SZ",
+   "name": "广电计量",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 17.56,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "300760.SZ",
+   "name": "迈瑞医疗",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 161.32,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-09",
+   "code": "688271.SH",
+   "name": "联影医疗",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 107.37,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "GEHC",
+   "name": "GE HealthCare",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 65.74,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "6060.HK",
+   "name": "众安在线",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 9.475,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "600570.SH",
+   "name": "恒生电子",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 19.4,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-09",
+   "code": "002352.SZ",
+   "name": "顺丰控股",
+   "hit": [
+    "T1",
+    "T2",
+    "T3"
+   ],
+   "price": 30.67,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-09",
+   "code": "ADP",
+   "name": "ADP",
+   "hit": [
+    "T1"
+   ],
+   "price": 260.26,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "601816.SH",
+   "name": "京沪高铁",
+   "hit": [
+    "T1"
+   ],
+   "price": 4.76,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "600519.SH",
+   "name": "贵州茅台",
+   "hit": [
+    "T1",
+    "T2"
+   ],
+   "price": 1258.62,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-09",
+   "code": "600887.SH",
+   "name": "伊利股份",
+   "hit": [
+    "T2"
+   ],
+   "price": 27.3,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "603288.SH",
+   "name": "海天味业",
+   "hit": [
+    "T1"
+   ],
+   "price": 33.17,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "9633.HK",
+   "name": "农夫山泉",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 39.98,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "600436.SH",
+   "name": "片仔癀",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 118.0,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-09",
+   "code": "600085.SH",
+   "name": "同仁堂",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 23.74,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-09",
+   "code": "600161.SH",
+   "name": "天坛生物",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 12.59,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-09",
+   "code": "1299.HK",
+   "name": "友邦保险",
+   "hit": [
+    "T3"
+   ],
+   "price": 68.95,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "601318.SH",
+   "name": "中国平安",
+   "hit": [
+    "T2",
+    "T3"
+   ],
+   "price": 53.29,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "0388.HK",
+   "name": "香港交易所",
+   "hit": [
+    "T1"
+   ],
+   "price": 378.0,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "SPGI",
+   "name": "标普全球",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 390.92,
+   "inPortfolio": true
+  },
+  {
+   "date": "2026-10-09",
+   "code": "MCO",
+   "name": "穆迪",
+   "hit": [
+    "T1"
+   ],
+   "price": 448.15,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "6055.HK",
+   "name": "中烟香港",
+   "hit": [
+    "T1",
+    "T3"
+   ],
+   "price": 22.92,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "600426.SH",
+   "name": "宇通客车",
+   "hit": [
+    "T3"
+   ],
+   "price": 19.43,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "601899.SH",
+   "name": "紫金矿业",
+   "hit": [
+    "T3"
+   ],
+   "price": 29.79,
+   "inPortfolio": false
+  },
+  {
+   "date": "2026-10-09",
+   "code": "000999.SZ",
+   "name": "华润三九",
+   "hit": [
+    "T1"
+   ],
+   "price": 24.19,
+   "inPortfolio": false
+  }
+ ],
+ "params": {
+  "posPct": 0.08,
+  "catMax": 0.35,
+  "maxNewPerWeek": 2,
+  "stopLoss": -0.25,
+  "fx": {
+   "CNY": 1.0,
+   "HKD": 0.92,
+   "USD": 7.1,
+   "JPY": 0.048
+  },
+  "fees": {
+   "buy": 0.001,
+   "sell": 0.002
+  },
+  "benchmarkNote": "标的池等权指数（基点 100），跨市场按简化汇率折 CNY"
+ },
+ "benchmark": {
+  "bases": {
+   "002270.SZ": 17.04,
+   "688548.SH": 30.72,
+   "688146.SH": 190.66,
+   "000807.SZ": 26.2,
+   "01378.HK": 21.16,
+   "601600.SH": 8.93,
+   "01164.HK": 2.09,
+   "001280.SZ": 60.22,
+   "CCJ": 87.47,
+   "600406.SH": 22.52,
+   "002415.SZ": 32.46,
+   "002236.SZ": 15.32,
+   "300124.SZ": 51.9,
+   "002747.SZ": 28.22,
+   "300012.SZ": 13.76,
+   "002967.SZ": 17.56,
+   "300760.SZ": 161.32,
+   "688271.SH": 107.37,
+   "GEHC": 65.74,
+   "6060.HK": 9.475,
+   "600570.SH": 19.4,
+   "002352.SZ": 30.67,
+   "6098.T": 17025.0,
+   "ADP": 260.26,
+   "600900.SH": 28.54,
+   "601985.SH": 9.07,
+   "003816.SZ / 1816.HK": 4.23,
+   "601816.SH": 4.76,
+   "600519.SH": 1258.62,
+   "600887.SH": 27.3,
+   "603288.SH": 33.17,
+   "9633.HK": 39.98,
+   "600436.SH": 118.0,
+   "000538.SZ": 50.44,
+   "600085.SH": 23.74,
+   "600161.SH": 12.59,
+   "1299.HK": 68.95,
+   "601318.SH": 53.29,
+   "0388.HK": 378.0,
+   "SPGI": 390.92,
+   "MCO": 448.15,
+   "PM": 189.53,
+   "6055.HK": 22.92,
+   "601088.SH": 47.8,
+   "600025.SH": 9.89,
+   "600426.SH": 19.43,
+   "601899.SH": 29.79,
+   "601006.SH": 4.74,
+   "600377.SH": 13.0,
+   "000999.SZ": 24.19
+  },
+  "points": [
+   {
+    "date": "2026-10-07",
+    "nav": 99296.04,
+    "invested": 63360.04,
+    "cash": 35936.0,
+    "benchmark": 100.0
+   },
+   {
+    "date": "2026-10-07",
+    "nav": 99280.15,
+    "invested": 79247.41,
+    "cash": 20032.75,
+    "benchmark": 100.0
+   },
+   {
+    "date": "2026-10-09",
+    "nav": 147712.9,
+    "invested": 143580.86,
+    "cash": 4132.04,
+    "benchmark": 100.0
+   }
+  ]
+ }
+}
