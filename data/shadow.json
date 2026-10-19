@@ -1,0 +1,296 @@
+{
+ "createdAt": "2026-10-19T15:50:22+08:00",
+ "capital": 50000.0,
+ "cash": 25639.664,
+ "positions": [
+  {
+   "code": "002352.SZ",
+   "name": "顺丰控股",
+   "market": "A股",
+   "category": 2,
+   "shares": 100,
+   "costPrice": 31.18,
+   "costDate": "2026-10-19",
+   "costCny": 3121.118,
+   "signalsAtBuy": [
+    "T1",
+    "T2"
+   ]
+  },
+  {
+   "code": "601600.SH",
+   "name": "中国铝业",
+   "market": "A股",
+   "category": 1,
+   "shares": 400,
+   "costPrice": 8.98,
+   "costDate": "2026-10-19",
+   "costCny": 3595.592,
+   "signalsAtBuy": [
+    "T1",
+    "T3"
+   ]
+  },
+  {
+   "code": "601899.SH",
+   "name": "紫金矿业",
+   "market": "A股",
+   "category": 1,
+   "shares": 100,
+   "costPrice": 29.98,
+   "costDate": "2026-10-19",
+   "costCny": 3000.998,
+   "signalsAtBuy": [
+    "T3"
+   ]
+  },
+  {
+   "code": "600085.SH",
+   "name": "同仁堂",
+   "market": "A股",
+   "category": 3,
+   "shares": 100,
+   "costPrice": 24.66,
+   "costDate": "2026-10-19",
+   "costCny": 2468.466,
+   "signalsAtBuy": [
+    "T1",
+    "T3"
+   ]
+  },
+  {
+   "code": "002236.SZ",
+   "name": "大华股份",
+   "market": "A股",
+   "category": 2,
+   "shares": 200,
+   "costPrice": 14.99,
+   "costDate": "2026-10-19",
+   "costCny": 3000.998,
+   "signalsAtBuy": [
+    "T1",
+    "T3"
+   ]
+  },
+  {
+   "code": "600161.SH",
+   "name": "天坛生物",
+   "market": "A股",
+   "category": 3,
+   "shares": 300,
+   "costPrice": 12.36,
+   "costDate": "2026-10-19",
+   "costCny": 3711.708,
+   "signalsAtBuy": [
+    "T1",
+    "T3"
+   ]
+  },
+  {
+   "code": "600406.SH",
+   "name": "国电南瑞",
+   "market": "A股",
+   "category": 2,
+   "shares": 100,
+   "costPrice": 22.18,
+   "costDate": "2026-10-19",
+   "costCny": 2220.218,
+   "signalsAtBuy": [
+    "T1",
+    "T3"
+   ]
+  },
+  {
+   "code": "002967.SZ",
+   "name": "广电计量",
+   "market": "A股",
+   "category": 2,
+   "shares": 200,
+   "costPrice": 16.19,
+   "costDate": "2026-10-19",
+   "costCny": 3241.2380000000003,
+   "signalsAtBuy": [
+    "T1",
+    "T3"
+   ]
+  }
+ ],
+ "navHistory": [
+  {
+   "date": "2026-10-19",
+   "nav": 49975.66,
+   "cash": 25639.66
+  }
+ ],
+ "weeklyLog": [
+  {
+   "date": "2026-10-19",
+   "week": 0,
+   "summary": "影子盘建仓：成交 8 只，跳过 6 只（资金不足一手）",
+   "actions": [
+    {
+     "date": "2026-10-19",
+     "code": "002352.SZ",
+     "name": "顺丰控股",
+     "side": "buy",
+     "shares": 100,
+     "limitPrice": 31.27,
+     "estAmountCny": 3118.0,
+     "reason": "T1、T2",
+     "status": "filled"
+    },
+    {
+     "date": "2026-10-19",
+     "code": "601600.SH",
+     "name": "中国铝业",
+     "side": "buy",
+     "shares": 400,
+     "limitPrice": 9.01,
+     "estAmountCny": 3592.0,
+     "reason": "T1、T3",
+     "status": "filled"
+    },
+    {
+     "date": "2026-10-19",
+     "code": "601318.SH",
+     "name": "中国平安",
+     "side": "buy",
+     "shares": 0,
+     "limitPrice": 51.38,
+     "estAmountCny": 0,
+     "reason": "资金不足以购入一手，按规则跳过",
+     "status": "skipped"
+    },
+    {
+     "date": "2026-10-19",
+     "code": "601899.SH",
+     "name": "紫金矿业",
+     "side": "buy",
+     "shares": 100,
+     "limitPrice": 30.07,
+     "estAmountCny": 2998.0,
+     "reason": "T3",
+     "status": "filled"
+    },
+    {
+     "date": "2026-10-19",
+     "code": "600519.SH",
+     "name": "贵州茅台",
+     "side": "buy",
+     "shares": 0,
+     "limitPrice": 1289.86,
+     "estAmountCny": 0,
+     "reason": "资金不足以购入一手，按规则跳过",
+     "status": "skipped"
+    },
+    {
+     "date": "2026-10-19",
+     "code": "600085.SH",
+     "name": "同仁堂",
+     "side": "buy",
+     "shares": 100,
+     "limitPrice": 24.73,
+     "estAmountCny": 2466.0,
+     "reason": "T1、T3",
+     "status": "filled"
+    },
+    {
+     "date": "2026-10-19",
+     "code": "002236.SZ",
+     "name": "大华股份",
+     "side": "buy",
+     "shares": 200,
+     "limitPrice": 15.03,
+     "estAmountCny": 2998.0,
+     "reason": "T1、T3",
+     "status": "filled"
+    },
+    {
+     "date": "2026-10-19",
+     "code": "600436.SH",
+     "name": "片仔癀",
+     "side": "buy",
+     "shares": 0,
+     "limitPrice": 122.23,
+     "estAmountCny": 0,
+     "reason": "资金不足以购入一手，按规则跳过",
+     "status": "skipped"
+    },
+    {
+     "date": "2026-10-19",
+     "code": "01378.HK",
+     "name": "中国宏桥",
+     "side": "buy",
+     "shares": 0,
+     "limitPrice": 20.96,
+     "estAmountCny": 0,
+     "reason": "资金不足以购入一手，按规则跳过",
+     "status": "skipped"
+    },
+    {
+     "date": "2026-10-19",
+     "code": "600161.SH",
+     "name": "天坛生物",
+     "side": "buy",
+     "shares": 300,
+     "limitPrice": 12.4,
+     "estAmountCny": 3708.0,
+     "reason": "T1、T3",
+     "status": "filled"
+    },
+    {
+     "date": "2026-10-19",
+     "code": "300124.SZ",
+     "name": "汇川技术",
+     "side": "buy",
+     "shares": 0,
+     "limitPrice": 49.42,
+     "estAmountCny": 0,
+     "reason": "资金不足以购入一手，按规则跳过",
+     "status": "skipped"
+    },
+    {
+     "date": "2026-10-19",
+     "code": "600406.SH",
+     "name": "国电南瑞",
+     "side": "buy",
+     "shares": 100,
+     "limitPrice": 22.25,
+     "estAmountCny": 2218.0,
+     "reason": "T1、T3",
+     "status": "filled"
+    },
+    {
+     "date": "2026-10-19",
+     "code": "300760.SZ",
+     "name": "迈瑞医疗",
+     "side": "buy",
+     "shares": 0,
+     "limitPrice": 165.39,
+     "estAmountCny": 0,
+     "reason": "资金不足以购入一手，按规则跳过",
+     "status": "skipped"
+    },
+    {
+     "date": "2026-10-19",
+     "code": "002967.SZ",
+     "name": "广电计量",
+     "side": "buy",
+     "shares": 200,
+     "limitPrice": 16.24,
+     "estAmountCny": 3238.0,
+     "reason": "T1、T3",
+     "status": "filled"
+    }
+   ]
+  }
+ ],
+ "params": {
+  "posPct": 0.08,
+  "catMax": 0.35,
+  "stopLoss": -0.25,
+  "slippage": 0.003,
+  "maxDrawdown": 0.3,
+  "lots": "A股100股/手；港股见LOTS表；美股日股1股"
+ }
+}
