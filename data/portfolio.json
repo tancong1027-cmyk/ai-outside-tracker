@@ -79,7 +79,7 @@
    "name": "中国宏桥",
    "market": "港股",
    "category": 1,
-   "shares": 378.0718,
+   "shares": 410.9476,
    "costPrice": 21.16,
    "costDate": "2026-10-07",
    "costCny": 8008.0,
@@ -149,7 +149,7 @@
    "name": "标普全球",
    "market": "美股",
    "category": 3,
-   "shares": 20.3172,
+   "shares": 2.8616,
    "costPrice": 390.92,
    "costDate": "2026-10-09",
    "costCny": 7950.354778110308,
@@ -189,11 +189,11 @@
    "benchmark": 100.0
   },
   {
-   "date": "2026-10-09",
-   "nav": 147712.9,
-   "invested": 143580.86,
+   "date": "2026-10-19",
+   "nav": 100758.92,
+   "invested": 96626.89,
    "cash": 4132.04,
-   "benchmark": 100.0
+   "benchmark": 101.37
   }
  ],
  "adviceLog": [
@@ -304,6 +304,13 @@
      "reason": "T1、T3｜PE 29.2 ≤ 32.0x；PE 近5年分位 5.3% < 20%"
     }
    ]
+  },
+  {
+   "date": "2026-10-19",
+   "week": 2,
+   "type": "weekly",
+   "summary": "数据修正：跨币种持仓股数误按人民币/外币价格计算（中国宏桥、标普全球），已按汇率折算修正并重建净值点",
+   "actions": []
   }
  ],
  "signalLog": [
@@ -1245,6 +1252,13 @@
     "invested": 143580.86,
     "cash": 4132.04,
     "benchmark": 100.0
+   },
+   {
+    "date": "2026-10-19",
+    "nav": 100758.92,
+    "invested": 96626.89,
+    "cash": 4132.04,
+    "benchmark": 101.37
    }
   ]
  }
