@@ -25,11 +25,14 @@
   /**
    * 投资至简的地址。
    *
-   * ⚠️ 这一行是唯一需要你改的地方。
-   * 现在指向本机调试地址，等部署到 Vercel 之后，把它换成
-   * 形如 'https://stock-scorer-xxxx.vercel.app' 的正式地址即可。
+   * 当前是「临时公网通道」：你电脑上跑着投资至简，隧道把它映射到公网。
+   * 优点——现在就能用；缺点——电脑待机/关盖/断网，这个地址就失效，
+   * 而且每次重启隧道地址都会变（形如 https://xxxx.lhr.life）。
+   *
+   * 等部署到 Vercel 之后，把这一行换成 'https://xxx.vercel.app'，
+   * 地址就永久固定，不再依赖你的电脑开机。改动只有这一行。
    */
-  var SCORER_URL = 'http://localhost:3211';
+  var SCORER_URL = 'https://ff33d4f57b1fbf.lhr.life';
 
   var BTN_ID = 'tsj-entry-btn';
   var NAV_SELECTOR = 'header nav';
