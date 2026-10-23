@@ -23,16 +23,16 @@
   'use strict';
 
   /**
-   * 投资至简的地址。
+   * 投资至简的地址（永久）。
    *
-   * 当前是「临时公网通道」：你电脑上跑着投资至简，隧道把它映射到公网。
-   * 优点——现在就能用；缺点——电脑待机/关盖/断网，这个地址就失效，
-   * 而且每次重启隧道地址都会变（形如 https://xxxx.lhr.life）。
+   * 这是正式地址，已部署在云端，7×24 在线：
+   *   · 不依赖你的电脑开机、合盖、断网
+   *   · 地址不会变（不再是每次重启就换一个的临时隧道）
    *
-   * 等部署到 Vercel 之后，把这一行换成 'https://xxx.vercel.app'，
-   * 地址就永久固定，不再依赖你的电脑开机。改动只有这一行。
+   * 末尾的 ?sharecode= 是访问凭证，不是可省略的装饰——
+   * 少了它服务器会返回 403（拒绝访问）。
    */
-  var SCORER_URL = 'https://ff33d4f57b1fbf.lhr.life';
+  var SCORER_URL = 'https://stock-scorer.app.workbuddy.host/?sharecode=XP5FZJV55R';
 
   var BTN_ID = 'tsj-entry-btn';
   var NAV_SELECTOR = 'header nav';
