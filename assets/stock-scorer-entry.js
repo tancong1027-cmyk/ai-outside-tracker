@@ -25,14 +25,16 @@
   /**
    * 投资至简的地址（永久）。
    *
-   * 这是正式地址，已部署在云端，7×24 在线：
+   * 已部署在云端，7×24 在线：
    *   · 不依赖你的电脑开机、合盖、断网
    *   · 地址不会变（不再是每次重启就换一个的临时隧道）
    *
-   * 末尾的 ?sharecode= 是访问凭证，不是可省略的装饰——
-   * 少了它服务器会返回 403（拒绝访问）。
+   * 两个细节都不能改：
+   *   ?sharecode=  是访问凭证。少了它，平台网关直接返回 403 或「链接不完整」。
+   *   /login       直接落到登录页。若指向根路径，服务端会先 307 跳到登录页，
+   *                而那次跳转不带 sharecode，同样会变成「链接不完整」。
    */
-  var SCORER_URL = 'https://stock-scorer.app.workbuddy.host/?sharecode=XP5FZJV55R';
+  var SCORER_URL = 'https://stock-scorer.app.workbuddy.host/login?sharecode=XP5FZJV55R';
 
   var BTN_ID = 'tsj-entry-btn';
   var NAV_SELECTOR = 'header nav';
